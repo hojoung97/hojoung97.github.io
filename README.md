@@ -1,2 +1,2 @@
-# hojoung97.github.io
-Portfolio Website with Github Page
+# Portfolio Website with Github Page
+Portfolio website made with HTML5, CSS and Javascript
